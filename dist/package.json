@@ -1,0 +1,19 @@
+{
+  "name": "@devindon/genpass",
+  "version": "0.0.1",
+  "description": "Generate password.",
+  "main": "index.js",
+  "bin": {
+    "genpass": "index.js"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "Devin Don <DevinDon@Foxmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "commander": "^2.19.0",
+    "object-hash": "^1.3.1"
+  },
+}
